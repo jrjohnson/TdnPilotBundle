@@ -28,8 +28,8 @@
     "prefer-stable": true,
     "require": {
         "php": ">=5.4",
-        "symfony/form": "~2.3",
-        "symfony/options-resolver": "~2.3",
+        "symfony/form": "~2.7",
+        "symfony/options-resolver": "~2.7",
         "symfony/finder": "~2.3",
         "symfony/class-loader": "~2.3",
         "sensio/generator-bundle": "~2.5",
